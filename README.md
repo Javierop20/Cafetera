@@ -7,5 +7,7 @@ It could be used as a form of register the entry of people to an office or the u
 
 Part of the code was taken from the examples of the RFID library and other parts were written by me. It has a few comments, and some serial output to help the programmer.
 
+The files used are: The Arduino IDE project, the Google Script and a Google Sheet. 
+
 ## Schematic:
 <img src="https://github.com/Javierop20/Cafetera/blob/master/Esquematico.JPG"  />
